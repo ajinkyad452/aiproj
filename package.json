@@ -21,14 +21,14 @@
     "url": "https://github.com/ajinkyad452/aiproj/issues"
   },
   "dependencies": {
-        "actions-on-google": "^1.0.0",
-        "apiai": "^4.0.3",
-        "firebase-admin": "^4.2.1",
-        "firebase-functions": "^0.6.3",
-        "request": "^2.81.0"
-    },
-    "devDependencies": {
-        "semistandard": "^9.1.0",
-	"apiai": "~4.0.3"
-    }
+    "actions-on-google": "^1.0.0",
+    "apiai": "^4.0.3",
+    "firebase-admin": "^4.2.1",
+    "firebase-functions": "^0.6.3",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "semistandard": "^9.1.0",
+    "apiai": "~4.0.3"
+  }
 }
