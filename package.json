@@ -1,0 +1,34 @@
+{
+  "name": "aiproj",
+  "version": "0.0.1",
+  "description": "This project is for testinf Google's Action and api.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajinkyad452/aiproj.git"
+  },
+  "keywords": [
+    "ai",
+    "artificial",
+    "intelligence"
+  ],
+  "author": "Ajinkya D.",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/ajinkyad452/aiproj/issues"
+  },
+  "dependencies": {
+        "actions-on-google": "^1.0.0",
+        "apiai": "^4.0.3",
+        "firebase-admin": "^4.2.1",
+        "firebase-functions": "^0.6.3",
+        "request": "^2.81.0"
+    },
+    "devDependencies": {
+        "semistandard": "^9.1.0",
+	"apiai": "~4.0.3"
+    }
+}
